@@ -1,0 +1,26 @@
+<style>
+    div.skill{
+        width: auto;
+    }
+    div.skill div{
+        width: 50%;
+        float: left;
+    }
+    div.traits{
+        width:auto;
+    }
+    div.traits div{
+        width: 50%;
+        float: left;
+    }
+    h1,h3,p,li,table,a{
+        color: #ecf2f8;
+    }
+    th{
+        text-align: left;
+    }
+    body{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-style: oblique;
+    }
+</style>
